@@ -42,6 +42,22 @@ Avaa tiedosto ja korvaa tiedoston sisältö tällä:
     <module name='TreeWalker'>
 
         <property name='tabWidth' value='4' />
+        
+        <!-- JavaDoc checks -->
+        
+        <module name="JavadocMethod">
+          <property name="scope" value="public"/>
+          <property name="allowMissingParamTags" value="false"/>
+          <property name="allowMissingPropertyJavadoc" value="true"/>
+          <property name="allowMissingThrowsTags" value="false"/>
+          <property name="allowMissingReturnTag" value="false"/>
+          <property name="allowThrowsTagsForSubclasses" value="true"/>
+        </module>
+      
+        <module name="JavadocStyle">
+          <property name="scope" value="public"/>
+          <property name="checkEmptyJavadoc" value="true"/>
+        </module>
 
         <!-- Block Checks -->
 
