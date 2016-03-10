@@ -11,12 +11,6 @@
 * Koodin tulisi alusta lähtien olla siistiä ja laajennettavaa
 * Tutustu kurssin määrittelemiin [koodin laatuvaatimuksiin](Koodin-laatuvaatimukset.md)
 
-### Checkstyle
-* Generoidaan tällä viikolla [Checkstyle-raportti](Checkstyle.md)
-* Katso Checkstyle-raportti läpi ja korjaa kaikki virheet mitä se ilmoittaa koodistasi.
-* Whitespace-virheiden kanssa auttaa NetBeansin macro Ctrl-Shift-F, tai right-click->Format, joka korjaa useimmat yleiset whitespace-virheet.
-* Viikon lopuksi generoi uusi Checkstyle-raportti ja kopioi raportin kansio kokonaisuudessaan dokumentaation alle.
-
 ### JUnit-yksikkötestit:
 
 * Ohjelman testien tulisi alusta lähtien olla kattavia
@@ -31,7 +25,13 @@
 ### Generoi PIT-raportti
   * Katso täältä [ohjeet](Maven-ja-PIT.md#raportit) raportin generointiin
   * Laita generoitu raportti dokumentaatiokansion sisälle pit-kansioon.
-  * Kannattaa myös generoida ja katsoa läpi cobertura-raportti, mutta sitä ei tarvitse lisätä dokumentaatioon.
+
+### Checkstyle
+* Generoidaan tällä viikolla myös [Checkstyle-raportti](Checkstyle.md)
+* Generoi Checkstyle-raportti
+* Vilkaise raportti läpi ja korjaa kaikki esiintyvät virheet.
+* Whitespace-virheiden kanssa auttaa NetBeansin macro Alt-Shift-F, tai vastaava hiiren oikeaklikkaus -> Format, joka korjaa useimmat yleiset whitespace-virheet.
+* Viikon lopuksi generoi uusi Checkstyle-raportti ja kopioi raportin kansio kokonaisuudessaan dokumentaation alle.
 
 #### README.md
 
