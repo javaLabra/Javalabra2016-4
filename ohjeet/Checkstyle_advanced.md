@@ -21,6 +21,7 @@ Aloitetaan siis lisäämällä seuraava pätkä viime viikolla luotuun checkstyl
   <module name="JavadocStyle">
     <property name="scope" value="public"/>
     <property name="checkEmptyJavadoc" value="true"/>
+    <property name="checkFirstSentence" value="true"/>
   </module>
 ```
 
