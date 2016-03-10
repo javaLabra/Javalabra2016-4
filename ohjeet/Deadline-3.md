@@ -29,5 +29,5 @@
 
 ### Checkstyle 
 * Generoi uusi Checkstyle-raportti
-* Korjaa kaikki esiintyvät Checkstyle-virheet
+* Korjaa kaikki esiintyvät Checkstyle-virheet (tästä eteenpäin oletetaan, ettei raportissa olisi enää virheitä)
 * Käyttöliittymä-luokkien kuten Swing-komponenttien testaus checkstylellä ei ole tarpeen, seuraa [näitä ohjeita] jättääksesi UI-luokat checkstylen ulkopuolelle
