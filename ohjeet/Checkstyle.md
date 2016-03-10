@@ -9,7 +9,7 @@ Koodin testauksen lisäksi koodin luettavuuden ylläpitäminen on tärkeää. T�
 Checkstyle on helppo tuoda Maven-projektiin, lisätään se vain **pom.xml** tiedostoon. Jotta Checkstylen raporteista pääsisi helposti tarkastelemaan lähdekoodissa olevaa ongelmakohtaa, on hyvä käyttää Checkstyleä yhdessä [jxr:n](http://maven.apache.org/plugins/maven-jxr-plugin/) kanssa. 
 
 Lisää **pom.xml** tiedostoon
-```
+```xml
 <build>
   <plugins>
   ...
