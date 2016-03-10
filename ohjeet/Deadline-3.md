@@ -26,3 +26,8 @@
 * Tarkenna ohjelman luokkakaaviota tai piirrä uusi kuvaamaan nykyistä rakennetta
 * Merkitse kytkentärajoitteet
 * Lähtökohdaksi voi ottaa ohjelmakoodinsa
+
+## Checkstyle 
+* Generoi uusi Checkstyle-raportti
+* Korjaa kaikki esiintyvät Checkstyle-virheet
+* Käyttöliittymä-luokkien kuten Swing-komponenttien testaus checkstylellä ei ole tarpeen, seuraa [näitä ohjeita] jättääksesi UI-luokat checkstylen ulkopuolelle
