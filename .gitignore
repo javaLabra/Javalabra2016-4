@@ -1,0 +1,7 @@
+.idea
+*.aux
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
