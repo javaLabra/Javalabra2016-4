@@ -27,7 +27,7 @@ Sähköpostit: etunimi.sukunimi@cs.helsinki.fi
 
 # Aikataulu
 
-Kurssisuoritukseen vaaditaan aikataulussa pysymystä, joten kannattaa pitää aikataulusta kiinni! Kaksi myöhästynyttä palautusta voidaan tulkita kurssin keskeytykseksi.
+Kurssisuoritukseen vaaditaan aikataulussa pysymystä, joten kannattaa pitää aikataulusta kiinni! Kolme myöhästynyttä palautusta tulkitaan kurssin keskeytykseksi.
 
 Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta.
 
