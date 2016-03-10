@@ -12,7 +12,7 @@
 * Tutustu kurssin määrittelemiin [koodin laatuvaatimuksiin](Koodin-laatuvaatimukset.md)
 
 ### Checkstyle
-* Generoi [Checkstyle-raportti](Checkstyle.md)
+* Generoidaan tällä viikolla [Checkstyle-raportti](Checkstyle.md)
 * Katso Checkstyle-raportti läpi ja korjaa kaikki virheet mitä se ilmoittaa koodistasi.
 * Whitespace-virheiden kanssa auttaa NetBeansin macro Ctrl-Shift-F, tai right-click->Format, joka korjaa useimmat yleiset whitespace-virheet.
 * Viikon lopuksi generoi uusi Checkstyle-raportti ja kopioi raportin kansio kokonaisuudessaan dokumentaation alle.
@@ -26,8 +26,7 @@
   * Huomioi [koodin laatuvaatimuksien](Koodin-laatuvaatimukset.md) alakohta *Testaus*
 * **Ainakin 10 testiä valmiina**
 
-### Dokumentaatio
-
+## Dokumentaatio
 
 ### Generoi PIT-raportti
   * Katso täältä [ohjeet](Maven-ja-PIT.md#raportit) raportin generointiin
@@ -45,8 +44,9 @@
 
 #### Luokkakaavio
 
-* Piirrä käsin tai jollain ohjelmalla (mieluiten ohjelmalla)
+* Piirrä ohjelmalla tai käsin (mieluiten ohjelmalla)
   * Skannaa tai ota selkeä kuva käsinpiirretystä
+  * Kiinnitä huomiota luokkakaavion selkeyteen, **hyvä käsiala**
 * Palauta .png tai .jpg -tiedostomuodossa
 * Hahmottele ensimmäinen versio ohjelmastasi
 * Määrittelyvaiheen luokkakaavio
