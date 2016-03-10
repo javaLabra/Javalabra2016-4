@@ -47,7 +47,7 @@ Toteutetaan järjestelmä, jonka avulla ylläpidetään tietojenkäsittelylaitok
 * Pidä kirjaa harjoitustyöhön käyttämästäsi työmäärästä
 * Käyttämäsi työmäärä ei vaikuta arvosanaan, joten ole rehellinen
 * Merkitse aina vähintään päivämäärä, käyttämäsi aika ja ajankäytön kohde
-* Kirjoita tuntikirjanpito tässä muodossa muodossa:
+* Kirjoita tuntikirjanpito tässä muodossa:
 ```
 ### Tuntikirjanpito
 Päivä | Tunnit | Kuvaus
