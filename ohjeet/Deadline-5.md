@@ -20,7 +20,7 @@
 * Testeille ei kirjoiteta javadocia
 
 ### Checkstyle
-* Lisätään checkstyleen JavaDoc-moduuli [näiden ohjeiden](Checkstyle_advanced.md) mukaisesti
+* Lisätään checkstyleen JavaDoc-moduuli [näiden ohjeiden](JavaDoc.md#Deadline 5:) mukaisesti
 * Generoi uudestaan Checkstyle-raportti ja korjaa nyt myös kaikki syntyvät JavaDoc virheet
 
 
