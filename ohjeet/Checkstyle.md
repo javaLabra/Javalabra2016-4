@@ -137,7 +137,7 @@ Generoituasi Checkstyle-raportin löydät sen polusta **/target/site/checkstyle.
 
 Lisää Checkstylestä voi lukea [ohtun sivuilta](https://github.com/mluukkai/ohtu2014/blob/master/web/laskari3.md)
 
-### Luokkien jättäminen checkstylen ulkopuolelle - mysuppressions.xml
+### Deadline 3: Luokkien jättäminen checkstylen ulkopuolelle
 
 Kurssilla ei ole tarpeen kirjoittaa ehdottoman siistiä käyttöliittymäkoodia, ja siksi emme vaadikaan että käyttöliittymäluokkia testataan ollenkaan checkstylen avulla. Muutetaan siis vielä raportointi niin, että tietyt tiedostot
 jätetään pois (esimerkiksi Main.java-tiedostosi). Lisää siis seuraava määritys ```<module name='TreeWalker'>```-tagin ulkopuolelle (!!) esimerkiksi siis ```<module name='FileLength'>```-tagin ylä- tai alapuolelle, mutta kuitenkin niin, että se on ```<module name='Checker'>```-
