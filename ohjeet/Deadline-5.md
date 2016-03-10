@@ -12,6 +12,13 @@
   * Prosenttiluvut ovat suosituksia, eivät absoluuttisia. Tarkoitus on testata kaikki mikä tuntuu mielekkäältä
   * Tähtää siihen, että kaikki mikä on järkevää testata on testattu
 
+### Checkstyle
+* Lisätään checkstyleen JavaDoc-moduuli [näiden ohjeiden](Checkstyle_advanced.md) mukaisesti
+* Generoi uudestaan Checkstyle
+* Korjaa **kaikki** esiintyvät checkstyle-virheet
+* Lisää generoitu raportti dokumentaatiokansioon
+
+
 ### JavaDoc
 * Päivitä luokkien kuvauksia, jos tarpeen
 * Kuvaa mahdollisimman paljon julkisia metodeja
@@ -29,15 +36,6 @@
 * Epäonnistunut ja onnistunut kirjautuminen voisivat olla omat kaavionsa, tai yhden kaavion kaksi osaa
   * Sekvenssikaavio alkaa tunnusten syöttämisellä, kirjautuminen hylätään, virheilmoitus, tunnukset syötetään uudestaan, kirjautuminen onnistuu
 * **Lisää sekvenssikaaviot kuvina [seuraavien ohjeiden](https://daringfireball.net/projects/markdown/syntax#img) mukaisesti dokumentaatiosi aiheenKuvausJaRakenne.md tiedostoon.**
-
-### Checkstyle
-* Generoi uudestaan Checkstyle
-* Korjaa **kaikki** esiintyvät checkstyle-virheet
-
-### Generoi Checkstyle-raportti uudestaan
-* Generoi uusi Checkstyle raportti
-* Lisää generoitu raportti dokumentaatiokansioon
-* _Oletko saanut parannettua koodiasi raportin perusteella?_
 
 ### Generoi PIT-raportti uudestaan
 * Generoi uudestaan PIT-raportti
