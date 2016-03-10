@@ -12,16 +12,17 @@
   * Prosenttiluvut ovat suosituksia, eivät absoluuttisia. Tarkoitus on testata kaikki mikä tuntuu mielekkäältä
   * Tähtää siihen, että kaikki mikä on järkevää testata on testattu
 
-### Checkstyle
-* Lisätään checkstyleen JavaDoc-moduuli [näiden ohjeiden](Checkstyle_advanced.md) mukaisesti
-* Generoi uudestaan Checkstyle-raportti ja korjaa nyt myös kaikki syntyvät JavaDoc virheet
-
 ### JavaDoc
 * Päivitä luokkien kuvauksia, jos tarpeen
 * Kuvaa mahdollisimman paljon julkisia metodeja
   * @Override -metodit voi jättää kuvaamatta
   * Get- ja Set- metodit voi jättää kuvaamatta, jos ne eivät tee mitään erikoista
 * Testeille ei kirjoiteta javadocia
+
+### Checkstyle
+* Lisätään checkstyleen JavaDoc-moduuli [näiden ohjeiden](Checkstyle_advanced.md) mukaisesti
+* Generoi uudestaan Checkstyle-raportti ja korjaa nyt myös kaikki syntyvät JavaDoc virheet
+
 
 ### Piirrä sekvenssikaavioita
 
