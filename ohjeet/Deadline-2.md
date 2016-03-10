@@ -11,6 +11,12 @@
 * Koodin tulisi alusta lähtien olla siistiä ja laajennettavaa
 * Tutustu kurssin määrittelemiin [koodin laatuvaatimuksiin](Koodin-laatuvaatimukset.md)
 
+### Checkstyle
+* Generoi [Checkstyle-raportti](Checkstyle.md)
+* Katso Checkstyle-raportti läpi ja korjaa kaikki virheet mitä se ilmoittaa koodistasi.
+* Whitespace-virheiden kanssa auttaa NetBeansin macro Ctrl-Shift-F, tai right-click->Format, joka korjaa useimmat yleiset whitespace-virheet.
+* Viikon lopuksi generoi uusi Checkstyle-raportti ja kopioi raportin kansio kokonaisuudessaan dokumentaation alle.
+
 ### JUnit-yksikkötestit:
 
 * Ohjelman testien tulisi alusta lähtien olla kattavia
