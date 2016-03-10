@@ -25,8 +25,6 @@ Sähköpostit: etunimi.sukunimi@cs.helsinki.fi
 
 ## Uutisia
 
-* **Kiitos kurssista!**
-
 # Aikataulu
 
 Kurssisuoritukseen vaaditaan aikataulussa pysymystä, joten kannattaa pitää aikataulusta kiinni! Kaksi myöhästynyttä palautusta voidaan tulkita kurssin keskeytykseksi.
