@@ -13,28 +13,28 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline 1, 22. tammikuuta klo 23:59
+### Deadline 1, 18. maaliskuuta klo 23:59
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline 2, 29. tammikuuta klo 23:59
+### Deadline 2, 1. huhtikuuta klo 23:59
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline 3, 5. helmikuuta klo 23:59
+### Deadline 3, 8. huhtikuuta klo 23:59
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
-### Ensimmäinen katselmointi, 5. helmikuuta klo 23:59
+### Ensimmäinen katselmointi, 8. helmikuuta klo 23:59
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline 4, 12. helmikuuta klo 23:59
+### Deadline 4, 15. huhtikuuta klo 23:59
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline 5, 19. helmikuuta klo 23:59
+### Deadline 5, 22. huhtikuuta klo 23:59
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Toinen katselmointi, 19. helmikuuta klo 23:59
+### Toinen katselmointi, 22. huhtikuuta klo 23:59
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline 6, 26. helmikuuta klo 23:59
+### Deadline 6, 29. huhtikuuta klo 23:59
 * [Deadlinen 6 vaatimukset](Deadline-6-lopullinen-palautus.md)
 
 ### Demot
