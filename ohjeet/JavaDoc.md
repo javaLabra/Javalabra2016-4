@@ -144,3 +144,25 @@ Sitten lisätään plugin vielä NetBeanssin valikkoon nbactions.xml:n kautta. K
 ```
 
 Nyt voit generoida JavaDocin klikkaamalla projektin nimeä oikealla hiirennäppäimellä ja valitsemalla `custom-JavaDoc`.
+
+## Deadline 5: JavaDoc-Checkstyle
+
+Lisätään Checkstyleen moduuli jolla tarkistetaan JavaDocin oikeus.
+
+```xml
+  <module name="JavadocMethod">
+    <property name="scope" value="public"/>
+    <property name="allowMissingParamTags" value="false"/>
+    <property name="allowMissingPropertyJavadoc" value="true"/>
+    <property name="allowMissingThrowsTags" value="false"/>
+    <property name="allowMissingReturnTag" value="false"/>
+    <property name="allowThrowsTagsForSubclasses" value="true"/>
+  </module>
+        
+  <module name="JavadocStyle">
+    <property name="scope" value="public"/>
+    <property name="checkEmptyJavadoc" value="true"/>
+  </module>
+```
+
+Tämän seurauksena uusia virheitä tulee ilmestymään paljon, sillä Checkstylen tarkistus on nyt kattavampi. Korjaa kaikki uudet virheet.
