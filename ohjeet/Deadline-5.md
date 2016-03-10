@@ -14,10 +14,7 @@
 
 ### Checkstyle
 * Lisätään checkstyleen JavaDoc-moduuli [näiden ohjeiden](Checkstyle_advanced.md) mukaisesti
-* Generoi uudestaan Checkstyle
-* Korjaa **kaikki** esiintyvät checkstyle-virheet
-* Lisää generoitu raportti dokumentaatiokansioon
-
+* Generoi uudestaan Checkstyle-raportti ja korjaa nyt myös kaikki syntyvät JavaDoc virheet
 
 ### JavaDoc
 * Päivitä luokkien kuvauksia, jos tarpeen
