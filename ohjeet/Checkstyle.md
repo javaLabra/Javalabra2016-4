@@ -203,12 +203,12 @@ Nyt puuttuu enää itse mysuppressions.xml-tiedoston luonti. Luo siis samaan kan
     "http://www.puppycrawl.com/dtds/suppressions_1_1.dtd">
 
 <suppressions>
-    <suppress files="<Tiedostosi1>.java" checks="[a-zA-Z0-9]*"/>
-    <suppress files="<Tiedostosi2>.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="Tiedostosi1.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="Tiedostosi2.java" checks="[a-zA-Z0-9]*"/>
 </suppressions>
 ```
 
-Korvaamalla `<Tiedostosi1>` ja `<Tiedostosi2>` niillä tiedostojen nimillä, joita et halua testata, poistaa tiedostot checkstylen 
+Korvaamalla `Tiedostosi1` ja `Tiedostosi2` niillä tiedostojen nimillä, joita et halua testata, poistaa tiedostot checkstylen 
 testauksen näköalueelta (voit kopioida kumman tahansa rivin ja liittää sen aina toisen alle, että saat enemmän kuin kaksi). 
 Sallittuja tiedostoja ovat esimerkiksi UI-luokat. Siis esimerkiksi Swing komponentit kuten JFrame ja varsinkin GUI editorilla luodut UI-luokat. Jos luokka on 100% oma tekemäsi ja käyttöliittymän ulkopuolella, **älä** jätä sitä checkstylen ulkopuolelle.
 
