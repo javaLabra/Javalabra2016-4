@@ -47,6 +47,20 @@ Toteutetaan järjestelmä, jonka avulla ylläpidetään tietojenkäsittelylaitok
 * Pidä kirjaa harjoitustyöhön käyttämästäsi työmäärästä
 * Käyttämäsi työmäärä ei vaikuta arvosanaan, joten ole rehellinen
 * Merkitse aina vähintään päivämäärä, käyttämäsi aika ja ajankäytön kohde
+* Kirjoita tuntikirjanpito tässä muodossa muodossa:
+```
+### Tuntikirjanpito
+Päivä | Tunnit | Kuvaus
+--------------- | ----- | ------
+01.01.2016 | 1.5h | Aiheen suunnittelua ja repon luonti
+... | ... | ...
+```
+Ylläoleva markdown näkyy GitHubissa vastaavasti:
+### Tuntikirjanpito
+Päivä | Tunnit | Kuvaus
+--------------- | ----- | ------
+01.01.2016 | 1.5h | Aiheen suunnittelua ja repon luonti
+... | ... | ...
 
 ### Noudata kansiorakennetta
 
