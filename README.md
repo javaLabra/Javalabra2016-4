@@ -32,19 +32,20 @@ Kurssisuoritukseen vaaditaan aikataulussa pysymystä, joten kannattaa pitää ai
 Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta.
 
 * **Pakollinen aloitusluento Tiistai 14. maaliskuuta 10-11 D122**
-* pe 18.03 klo. 12-14
-* ma 21.03 klo. 14-16
-* pe 25.03 klo. 12-14
-* ma 28.03 klo. 14-16
-* pe 01.04 klo. 12-14
-* ma 04.04 klo. 14-16
-* pe 08.04 klo. 12-14
-* ma 11.04 klo. 14-16
-* pe 15.04 klo. 12-14
-* ma 18.04 klo. 14-16
-* pe 22.04 klo. 12-14
-* ma 25.04 klo. 14-16
-* pe 29.04 klo. 12-14
-* ma 02.05 klo. 14-16
-* pe 06.05 klo. 12-14
+* **PAJA-AJAT (alustavat)**
+  * pe 18.03 klo. 12-14
+  * ma 21.03 klo. 14-16
+  * pe 25.03 klo. 12-14
+  * ma 28.03 klo. 14-16
+  * pe 01.04 klo. 12-14
+  * ma 04.04 klo. 14-16
+  * pe 08.04 klo. 12-14
+  * ma 11.04 klo. 14-16
+  * pe 15.04 klo. 12-14
+  * ma 18.04 klo. 14-16
+  * pe 22.04 klo. 12-14
+  * ma 25.04 klo. 14-16
+  * pe 29.04 klo. 12-14
+  * ma 02.05 klo. 14-16
+  * pe 06.05 klo. 12-14
 
