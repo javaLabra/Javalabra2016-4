@@ -34,7 +34,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 * **Pakollinen aloitusluento Tiistai 14. maaliskuuta 10-11 D122**
 * **PAJA-AJAT**
   * ~~pe 18.03 klo. 12-14~~
-  * ma 21.03 klo. 10-12 **huom! Saatetaan muuttaa maanantaisin 14-16, jos vähän ihmisiä pajassa**
+  * ma 21.03 klo. 10-12 
   * pe 01.04 klo. 12-14
   * ma 04.04 klo. 10-12
   * pe 08.04 klo. 12-14
