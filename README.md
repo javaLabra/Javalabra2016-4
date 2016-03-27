@@ -13,7 +13,7 @@
 * [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
-* Kristian Wahlroos (wakr)
+* Kristian Wahlroos (waki)
 * Atte Lassila (serdion)
 
 Sähköpostit: etunimi.sukunimi@cs.helsinki.fi
