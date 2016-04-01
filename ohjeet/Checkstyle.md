@@ -115,7 +115,7 @@ Avaa tiedosto ja korvaa tiedoston sisältö tällä:
 
 </module>
 ```
-Lisätään aiemmin luotuun _nbactions.xml_-tiedostoon vielä yksi valikko, jolla voi ajaa Checkstylen helposti suoraan Netbeansistä. Lisää tiedostoon alla oleva pätkä. Tallenna ja aja projektille **Clean and Build**. Nyt pitäisi Custom valikossa näkyä Coberturan ja Pitin lisäksi Checkstyle.
+Lisätään aiemmin luotuun _nbactions.xml_-tiedostoon vielä yksi valikko, jolla voi ajaa Checkstylen helposti suoraan Netbeansistä. Lisää tiedostoon alla oleva pätkä. Tallenna ja aja projektille **Clean and Build**. Nyt pitäisi Custom valikossa näkyä Pitin lisäksi Checkstyle.
 
 ```xml
 <actions> 
