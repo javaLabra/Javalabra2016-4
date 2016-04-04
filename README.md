@@ -24,7 +24,8 @@ Sähköpostit: etunimi.sukunimi@cs.helsinki.fi
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta pajassa, IRCissä tai lähetä sähköpostia.
 
 ## Uutisia
-* *04.04.2016* Deadlineen 3 tehty lisäys
+* **04.04.2016** Deadlineen 3 tehty lisäys
+
 # Aikataulu
 
 Kurssisuoritukseen vaaditaan aikataulussa pysymystä, joten kannattaa pitää aikataulusta kiinni! Kolme myöhästynyttä palautusta tulkitaan kurssin keskeytykseksi.
