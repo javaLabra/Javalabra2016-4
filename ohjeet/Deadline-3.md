@@ -16,7 +16,7 @@
 * Yhtä luokkaa kohti saa olla myös useita testiluokkia
 * Poista viime viikon pit-raportti ja generoi uusi sen tilalle.
   * [ohjeet](Maven-ja-PIT.md#raportit)
-  * Kannattaa tutkia myös cobertura-raportti. Logiikan rivikattavuus olisi hyvä olla jo >70%.
+  * Logiikan rivikattavuus olisi hyvä olla jo >70%.
 
 ### Generoi PIT-raportti uudestaan
 * Generoi uudestaan PIT-raportti
