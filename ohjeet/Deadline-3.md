@@ -27,7 +27,13 @@
 * Merkitse kytkentärajoitteet
 * Lähtökohdaksi voi ottaa ohjelmakoodinsa
 
-### Checkstyle 
-* Generoi uusi Checkstyle-raportti
-* Korjaa kaikki esiintyvät Checkstyle-virheet (tästä eteenpäin oletetaan, ettei raportissa olisi enää virheitä)
+### CheckStyle 
+* Generoi uusi CheckStyle-raportti
+* Korjaa kaikki esiintyvät CheckStyle-virheet (tästä eteenpäin oletetaan, ettei raportissa olisi enää virheitä)
 * Käyttöliittymä-luokkien kuten Swing-komponenttien testaus checkstylellä ei ole tarpeen, seuraa [näitä ohjeita] jättääksesi UI-luokat checkstylen ulkopuolelle
+
+### README.md
+* Linkataan tällä viikolla myös pit- ja CheckStyle-raportit README.md:stä. Tähän käytetään [htmlpreviewiä](https://htmlpreview.github.io/)
+* Htmlpreviewiä käyttäen, linkkaa README.md:hen pit-raporttisi index.html ja CheckStyle-raporttisi checkstyle.html. 
+* Linkki pit-raporttiisi olisi siis esimerkiksi tälläinen: https://htmlpreview.github.io/?https://github.com/kayttaja/javalabra/blob/master/documentation/pit-reports/index.html
+* Muista päivittää linkki viikottain ja linkata aina uusin versio raporteistasi
