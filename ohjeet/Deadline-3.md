@@ -30,7 +30,7 @@
 ### CheckStyle 
 * Generoi uusi CheckStyle-raportti
 * Korjaa kaikki esiintyvät CheckStyle-virheet (tästä eteenpäin oletetaan, ettei raportissa olisi enää virheitä)
-* Käyttöliittymä-luokkien kuten Swing-komponenttien testaus checkstylellä ei ole tarpeen, seuraa [näitä ohjeita] jättääksesi UI-luokat checkstylen ulkopuolelle
+* Käyttöliittymä-luokkien kuten Swing-komponenttien testaus checkstylellä ei ole tarpeen, seuraa [näitä ohjeita](Checkstyle.md#deadline-3-luokkien-jättäminen-checkstylen-ulkopuolelle) jättääksesi UI-luokat checkstylen ulkopuolelle
 
 ### README.md
 * Linkataan tällä viikolla myös pit- ja CheckStyle-raportit README.md:stä. Tähän käytetään [htmlpreviewiä](https://htmlpreview.github.io/)
