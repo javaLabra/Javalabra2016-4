@@ -26,10 +26,12 @@
 ### Generoi Checkstyle-raportti
 * Luo Checkstyle raportti [ohjeiden mukaan](Checkstyle.md)
 * Lisää generoitu raportti dokumentaatiokansioon
+* Päivitä README.md-linkki
 
 ### Generoi PIT-raportti uudestaan
 * Generoi uudestaan PIT-raportti
 * Lisää uusi generoitu raportti dokumentaatioon
+* Päivitä README.md-linkki
 
 ### Muu dokumentointi
 * Päivitä luokkakaavio ja aihemäärittely, jos tarpeen
