@@ -40,8 +40,8 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
   * ~~pe 01.04 klo. 12-14~~
   * ~~ma 04.04 klo. 10-12~~
   * ~~pe 08.04 klo. 12-14~~
-  * to 14.04 klo. 10-12
-  * pe 15.04 klo. 12-14
+  * ~~to 14.04 klo. 10-12~~
+  * ~~pe 15.04 klo. 12-14~~
   * to 21.04 klo. 10-12
   * pe 22.04 klo. 12-14
   * to 28.04 klo. 10-12
