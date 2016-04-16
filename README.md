@@ -46,4 +46,4 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
   * pe 22.04 klo. 12-14
   * to 28.04 klo. 10-12
   * pe 29.04 klo. 12-14
-* **Demo pvm to-be-announced** 
+* **DEMO 28.04.2016 klo 12-14 luokassa X** 
