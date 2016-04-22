@@ -26,7 +26,7 @@ Sähköpostit: etunimi.sukunimi@cs.helsinki.fi
 ## Uutisia
 * **04.04.2016** Deadlineen 3 tehty lisäys
 * Huomaa muuttuneet paja-ajat
-* Demotilaisuuden paikka kirjoitetaan ylös kunhan se on saatu selville
+* **22.04.2016** Demotilaisuus luokassa B222
 
 # Aikataulu
 
@@ -48,4 +48,4 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
   * ma 25.04 koko päivä (08.00 - 17.00 DEMO I yhteydessä)
   * pe 29.04 klo. 12-14
 * **DEMO 1 25.04.2016 klo 13.00 - X alapajassa**
-* **DEMO 2 28.04.2016 klo 12-14 luokassa X** 
+* **DEMO 2 28.04.2016 klo 12-14 luokassa B222** 
