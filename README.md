@@ -26,6 +26,7 @@ Sähköpostit: etunimi.sukunimi@cs.helsinki.fi
 ## Uutisia
 * **04.04.2016** Deadlineen 3 tehty lisäys
 * Huomaa muuttuneet paja-ajat
+* Demotilaisuuden paikka kirjoitetaan ylös kunhan se on saatu selville
 
 # Aikataulu
 
