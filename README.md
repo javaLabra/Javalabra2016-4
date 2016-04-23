@@ -49,3 +49,5 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
   * pe 29.04 klo. 12-14
 * **DEMO 1 25.04.2016 klo 13.00 - X alapajassa**
 * **DEMO 2 28.04.2016 klo 12-14 luokassa B222** 
+
+* Lopullinen palautus - sunnuntaina 08.05.2016 klo 23.59. Tällöin jokaisen osallistujan projekti ladataan GitHubista ja arvostellaan sellaisenaan
