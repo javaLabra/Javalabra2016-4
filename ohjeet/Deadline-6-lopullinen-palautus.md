@@ -70,7 +70,7 @@
 * Generoi uudestaan PIT-raportti
 * Lisää uusi generoitu raportti dokumentaatioon
 
-# Lopulliseen palautukseen (Deadline 6 jälkeen)
+# Lopulliseen palautukseen (08.05)
 
 ### Tarkista ohjelmasi valmius
 * Ohjelma toimii ja on valmis
